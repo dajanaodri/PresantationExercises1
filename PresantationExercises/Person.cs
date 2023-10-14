@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PresantationExercises
+namespace Excercise1
 {
     public class Person
     {
